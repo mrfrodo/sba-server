@@ -1,0 +1,2 @@
+### Spring boot admin server
+
